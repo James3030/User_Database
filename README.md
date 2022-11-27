@@ -1,7 +1,7 @@
 # User_Database
 
 user_added = True
-user = "Becca"
+user = "Becca" \
 
 if user_added == False:
   print(f"Adding {user} to database")
